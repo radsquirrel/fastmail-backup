@@ -35,6 +35,7 @@ Master :fastmail-remote:
 Slave :fastmail-local:
 Patterns *
 Create Slave
+Expunge Slave
 Sync Pull
 SyncState *
 EOF
